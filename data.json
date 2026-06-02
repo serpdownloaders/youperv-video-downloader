@@ -1,0 +1,216 @@
+{
+  "github_source_repo": "https://github.com/serpcompany/youperv-downloader",
+  "serply_link": "https://serp.ly/youperv-downloader",
+  "app_name": "Youperv Video Downloader",
+  "short_description": "Download & Save Youperv Videos Easily for Offline Viewing (Browser Extension)",
+  "long_description": "Youperv Downloader is a browser extension designed for YouPerv video pages. It detects available media on supported YouPerv pages and lets you save it directly through your browser. The extension works with Chrome, Edge, Brave, and Firefox.",
+  "main_video": "",
+  "featured_image": "",
+  "screenshots": [
+    "https://apps.serp.co/media/optimized-products/youperv-downloader-fullscreen-01-6468c91714.webp",
+    "https://apps.serp.co/media/optimized-products/youperv-downloader-fullscreen-02-82f30f438f.webp",
+    "https://apps.serp.co/media/optimized-products/youperv-downloader-fullscreen-03-2fc034d7e3.webp",
+    "https://apps.serp.co/media/optimized-products/youperv-downloader-fullscreen-04-d08e3dc578.webp"
+  ],
+  "chromestore_link": "",
+  "firefoxstore_link": "",
+  "other_links": [],
+  "faqs": [
+    {
+      "question": "Is this extension free to use?",
+      "answer": "The extension includes a free trial with 3 downloads. After that, a paid license is required for unlimited downloads."
+    },
+    {
+      "question": "Which browsers are supported?",
+      "answer": "The extension works with Chrome, Edge, Brave, and Firefox."
+    },
+    {
+      "question": "Do I need an account to use the extension?",
+      "answer": "Yes, you need to sign in with your email using a one-time password. No credit card is required for the trial."
+    },
+    {
+      "question": "Can I download videos in HD quality?",
+      "answer": "Quality options depend on what is available on the YouPerv page. The extension shows all detected quality levels."
+    },
+    {
+      "question": "Is downloading videos from YouPerv legal?",
+      "answer": "Only download content you own or have explicit permission to save. You are responsible for ensuring you have the right to download any content."
+    }
+  ],
+  "permissions": [
+    {
+      "name": "",
+      "description": "Building a personal archive of videos you own or have permission to keep"
+    },
+    {
+      "name": "",
+      "description": "Only download content you own or have explicit permission to save. You are responsible for ensuring you have the right to download any content."
+    },
+    {
+      "name": "",
+      "description": "Only download content you own or have explicit permission to save"
+    }
+  ],
+  "features": [
+    "Saves YouPerv videos as MP4 files for easy playback",
+    "Works directly in your browser without external software",
+    "Detects media from supported YouPerv video pages",
+    "Simple popup interface for quality selection",
+    "Free trial available with no credit card required",
+    "Saves videos as MP4 files for broad compatibility",
+    "Popup interface with quality selection options",
+    "Works on Chrome, Edge, Brave, and Firefox",
+    "Free trial with 3 downloads to test the workflow",
+    "Secure email sign-in with one-time password verification",
+    "No credit card required for trial access",
+    "Automatic detection after playback starts"
+  ],
+  "content": {
+    "why": [
+      "YouPerv hosts a large library of adult video content, but the platform does not include a built-in way to save videos for offline viewing. Users who want to keep specific videos often resort to screen recording or third-party tools that are slow, unreliable, or require complex setup.",
+      "Youperv Downloader solves this by adding a simple download button directly into your browser. When you visit a supported YouPerv video page, the extension detects the available media and lets you save it as an MP4 file with a few clicks. No extra software, no complicated workflows, just a straightforward download experience."
+    ],
+    "how_it_works": [
+      "Install the extension from the latest release.",
+      "Open YouPerv and go to a supported video page.",
+      "Start playback so the extension can detect the media.",
+      "Open the popup or use the on-page controls.",
+      "Choose the quality option you want.",
+      "Start the download and wait for the MP4 export to finish.",
+      "Save the final file locally."
+    ],
+    "tutorial": [
+      "Install the Youperv Downloader extension from the latest GitHub release.",
+      "Open your browser and navigate to a supported YouPerv video page.",
+      "Click the play button on the video to start playback.",
+      "Click the Youperv Downloader icon in your browser toolbar.",
+      "Wait a moment while the extension detects available media.",
+      "Select your preferred quality option from the popup list.",
+      "Click the download button to start the process.",
+      "Save the completed MP4 file to your computer when prompted."
+    ],
+    "supported_formats": [
+      "Input: Supported video sources on YouPerv pages, including direct MP4 and HLS streams",
+      "Output: MP4",
+      "Saved files use MP4 so they are easier to replay on standard media players, move between devices, or archive locally."
+    ],
+    "target_users": [
+      "YouPerv users who want to save videos for offline viewing",
+      "Users who prefer browser extensions over standalone download software",
+      "People who need a simple, click-to-download workflow",
+      "Anyone who wants to archive personal video collections"
+    ],
+    "use_cases": [
+      "Saving favorite videos for offline viewing when internet access is unavailable",
+      "Building a personal archive of videos you own or have permission to keep",
+      "Transferring videos to other devices for playback without streaming",
+      "Keeping a backup copy of content you enjoy",
+      "Downloading videos for editing or personal projects"
+    ],
+    "troubleshooting": [
+      "The extension does not detect any media on the page. Make sure the video is playing before opening the extension popup. Some YouPerv pages only expose media after playback starts.",
+      "The download starts but fails partway through. Check your internet connection and try again. If the issue persists, try refreshing the page and restarting the download.",
+      "I see an error about unsupported format. The extension works with supported video sources on YouPerv. Some pages may use formats that are not currently supported.",
+      "The popup shows no quality options. Try playing the video for a few seconds first. If the popup still shows no options, the page format may not be compatible.",
+      "The extension does not work after updating. Clear your browser cache and restart the browser. If the problem continues, reinstall the extension from the latest release."
+    ],
+    "trial_access": [
+      "Includes 3 free downloads so you can test the workflow first",
+      "Email sign-in uses secure one-time password verification",
+      "No credit card required for the trial",
+      "Unlimited downloads are available with a paid license"
+    ],
+    "installation_instructions": [
+      "Open the latest release page.",
+      "Download the correct build for your browser.",
+      "Install the extension.",
+      "Open a supported YouPerv page.",
+      "Use the popup to detect and download the media."
+    ],
+    "notes": [
+      "Only download content you own or have explicit permission to save",
+      "An internet connection is required for downloads",
+      "YouPerv pages may change their structure over time, which could affect detection",
+      "The extension works with supported video pages on youperv.com and its subdomains"
+    ],
+    "about": [
+      "YouPerv is an adult video hosting platform that offers a wide variety of content across many categories. Youperv Downloader adds a convenient way to save videos from supported pages directly through your browser, making offline access simpler for users who want to keep their favorite content."
+    ]
+  },
+  "serpx_link": "https://serpx.link/youperv-downloader",
+  "github_topics": [
+    "youperv-download",
+    "youperv-downloader",
+    "youperv-video-downloader",
+    "youperv-video-downloader-online",
+    "youperv-video-downloader-mac",
+    "youperv-video-downloader-window",
+    "youperv-video-downloader-free",
+    "youperv-video-downloader-extension",
+    "youperv-video-downloader-app",
+    "youperv-video-downloader-chrome",
+    "youperv-video-downloader-from-url",
+    "how-to-download-youperv-videos",
+    "how-to-download-youperv-videos-mac",
+    "how-to-download-youperv-videos-windows",
+    "how-to-download-youperv-videos-online",
+    "how-to-download-youperv-videos-free",
+    "how-to-download-from-youperv",
+    "how-to-download-videos-from-youperv",
+    "download-youperv-videos",
+    "youperv-video-tutorial",
+    "save-youperv-videos",
+    "youperv-video-content-saver",
+    "how-to-download-youperv-videos-for-free"
+  ],
+  "hashtags": [
+    "#YoupervDownload",
+    "#YoupervDownloader",
+    "#YoupervVideoDownloader",
+    "#YoupervVideoDownloaderOnline",
+    "#YoupervVideoDownloaderMac",
+    "#YoupervVideoDownloaderWindow",
+    "#YoupervVideoDownloaderFree",
+    "#YoupervVideoDownloaderExtension",
+    "#YoupervVideoDownloaderApp",
+    "#YoupervVideoDownloaderChrome",
+    "#YoupervVideoDownloaderFromURL",
+    "#HowToDownloadYoupervVideos",
+    "#HowToDownloadYoupervVideosMac",
+    "#HowToDownloadYoupervVideosWindows",
+    "#HowToDownloadYoupervVideosOnline",
+    "#HowToDownloadYoupervVideosFree",
+    "#HowToDownloadFromYouperv",
+    "#HowToDownloadVideosFromYouperv",
+    "#DownloadYoupervVideos",
+    "#YoupervVideoTutorial",
+    "#SaveYoupervVideos",
+    "#YoupervVideoContentSaver",
+    "#HowToDownloadYoupervVideosForFree"
+  ],
+  "youtube_tags": [
+    "Youperv Download",
+    "Youperv Downloader",
+    "Youperv Video Downloader",
+    "Youperv Video Downloader Online",
+    "Youperv Video Downloader Mac",
+    "Youperv Video Downloader Window",
+    "Youperv Video Downloader Free",
+    "Youperv Video Downloader Extension",
+    "Youperv Video Downloader App",
+    "Youperv Video Downloader Chrome",
+    "Youperv Video Downloader From URL",
+    "How To Download Youperv Videos",
+    "How To Download Youperv Videos Mac",
+    "How To Download Youperv Videos Windows",
+    "How To Download Youperv Videos Online",
+    "How To Download Youperv Videos Free",
+    "How To Download From Youperv",
+    "How To Download Videos From Youperv",
+    "Download Youperv Videos",
+    "Youperv Video Tutorial",
+    "Save Youperv Videos",
+    "Youperv Video Content Saver",
+    "How To Download Youperv Videos For Free"
+  ]
+}
